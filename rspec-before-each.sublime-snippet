@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+before(:each) do
+  ${0:#code}
+end
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>befe</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.ruby</scope>
+  <description>(RSpec) Inserts a before each block</description>
+</snippet>

@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+it "${1:prompt}" do
+  ${0:#code}
+end
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>itb</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.ruby</scope>
+  <description>(RSpec) Inserts an it block</description>
+</snippet>

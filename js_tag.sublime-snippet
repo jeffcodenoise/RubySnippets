@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+<script type="text/javascript">
+  ${0}
+</script>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>jstag</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html.basic, text.html.ruby</scope>
+  <description>Inserts a text/javascript script tag into an HTML document</description>
+</snippet>
