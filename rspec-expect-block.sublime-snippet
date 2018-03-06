@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+expect { ${1:thing} }.${2:to} ${3:do_stuff}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>expb</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.ruby</scope>
+  <description>(RSpec) Inserts an expect with block</description>
+</snippet>
